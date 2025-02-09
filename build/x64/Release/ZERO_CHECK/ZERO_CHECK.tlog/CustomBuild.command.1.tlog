@@ -1,0 +1,10 @@
+^C:\USERS\SUHA\DOWNLOADS\A1_SUHAMANSURI\BUILD\CMAKEFILES\242684C5259C73DBA7B79A068F165344\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Suha/Downloads/A1_suhamansuri/A1_template_tower_defense -BC:/Users/Suha/Downloads/A1_suhamansuri/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Suha/Downloads/A1_suhamansuri/build/tower_defense.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

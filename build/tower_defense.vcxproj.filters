@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\ai_system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\physics_system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\render_system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\render_system_init.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\tinyECS\components.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\tinyECS\registry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\tinyECS\tiny_ecs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\world_init.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\world_system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\ai_system.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\common.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\physics_system.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\render_system.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\tinyECS\components.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\tinyECS\entity.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\tinyECS\registry.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\tinyECS\tiny_ecs.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\world_init.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\src\world_system.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Suha\Downloads\A1_suhamansuri\A1_template_tower_defense\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{22DC4A4E-4E9A-3821-8787-2A91BBF26658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DF6B49EB-20DE-3157-A6AC-121C89B07482}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
